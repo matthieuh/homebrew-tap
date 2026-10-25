@@ -4,8 +4,8 @@
 class Btp < Formula
   desc "Kill dev servers left behind by coding-agent sessions"
   homepage "https://github.com/matthieuh/balance-ton-port"
-  url "https://github.com/matthieuh/balance-ton-port/releases/download/v0.4.2/btp-0.4.2-macos-universal.tar.gz"
-  sha256 "88474f8ca5f7127314259fec01916b863f6f7d3b5d5a160cca695004a848ba7d"
+  url "https://github.com/matthieuh/balance-ton-port/releases/download/v0.4.3/btp-0.4.3-macos-universal.tar.gz"
+  sha256 "ff66ddaf5f812755a288df5b753de6b2c5eef6322d7284552594e43c65b8d4df"
   license "MIT"
 
   # The binary is built with MACOSX_DEPLOYMENT_TARGET=14.0.
