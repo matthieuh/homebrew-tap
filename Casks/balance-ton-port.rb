@@ -2,8 +2,8 @@
 # (real version and sha256) and attaches the result to the GitHub release;
 # copy that file to matthieuh/homebrew-tap as Casks/balance-ton-port.rb.
 cask "balance-ton-port" do
-  version "0.4.1"
-  sha256 "fe0345ce2633e41f756332310815fb00d90076d2e8b1a3de6471795b6f86db52"
+  version "0.4.2"
+  sha256 "1364bea5da9726841934bad94995ed67d98576fd14cde201f67958adc7fba57a"
 
   url "https://github.com/matthieuh/balance-ton-port/releases/download/v#{version}/BalanceTonPort-#{version}.dmg"
   name "Balance ton port"
